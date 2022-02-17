@@ -19,6 +19,8 @@ code .
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+# Projeden görsel
+![ilkrepo](1.png)
 
 # License
 MIT
