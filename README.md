@@ -24,3 +24,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 MIT
+
+
+# patika hesabım :https://app.patika.dev/mertkozalak
